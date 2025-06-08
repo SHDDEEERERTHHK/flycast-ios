@@ -4,7 +4,7 @@
   "description": "",
   "iconURL": "https://i.imgur.com/xYa2YsB.png",
   "website": "https://github.com/SHDDEEERERTHHK/flycast-ios",
-  "patreonURL": "",
+  "patreonURL": "https://www.patreon.com/rileyshane",
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.flyinghead.Flycast"
@@ -24,12 +24,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://drive.usercontent.google.com/download?id=1UKucFA0JX3zfyR5EsrnoYdZNoOSa_Un-&export=download",
-          "size": 8200000,
           "version": "v2.5",
-          "buildVersion": null,
           "date": "2025-06-07T23:55:00+03:00",
           "localizedDescription": "WOW, IT IS BACK!",
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1UKucFA0JX3zfyR5EsrnoYdZNoOSa_Un-&export=download",
+          "size": 8200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
